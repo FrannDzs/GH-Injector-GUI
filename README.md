@@ -36,7 +36,7 @@ This version is based on a modified version by [multikill](https://github.com/mu
     - Download the QT VS Tools extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.QtVisualStudioTools2022).
 
 4. **Static QT 5.15.2**
-    - Download the static QT 5.15.2 release from [this repository]([https://github.com/martinrotter/qt5-minimalistic-builds/releases](https://github.com/martinrotter/qt-minimalistic-builds/releases/tag/5.15.2)).
+    - Download the static QT 5.15.2 release from [this repository](https://github.com/martinrotter/qt-minimalistic-builds/releases/tag/5.15.2).
     - Extract it to "%QTDIR%\5.15.2\qt-5.15.2-static-msvc2019-x86_64".
 
 5. **Setup MSVC**
