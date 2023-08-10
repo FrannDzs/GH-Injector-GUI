@@ -9,13 +9,13 @@ https://github.com/multikill/GH_Injector_MSVC_2019_QT_5_15_0
 ![alt_text](https://i.gyazo.com/a9347287866c0220f9c09fd8a20ebbe1.png)
 
 ## How to build
-1. Visual Studio 2022
+1. Visual Studio 2019
 	1. Download https://visualstudio.microsoft.com/vs/
 2. Qt
 	1. Download https://www.qt.io/download-qt-installer
 	1. Install Qt 5.15.2 -> MSVC 2019 32-bit
 	2. Install Qt 5.15.2 -> MSVC 2019 64-bit
-3. Qt VS Tools for Visual Studio 2022
+3. Qt VS Tools for Visual Studio 2019
 	1. Download https://marketplace.visualstudio.com/items?itemName=TheQtCompany.QtVisualStudioTools2022
 4. Static Qt 5.15.2
 	1. Download https://github.com/martinrotter/qt5-minimalistic-builds/releases

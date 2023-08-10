@@ -151,19 +151,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\konra\\.nuget\\packages\\": {}
+    "C:\\Users\\palad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "4.8.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\konra\\Documents\\Visual Studio 2022\\Projects\\GH Injector 3.4\\GH Injector GUI\\GH .NET Parser\\GH .NET Parser.csproj",
+      "projectUniqueName": "E:\\GH-Injector-GUI-main\\GH .NET Parser\\GH .NET Parser.csproj",
       "projectName": "GH .NET Parser",
-      "projectPath": "C:\\Users\\konra\\Documents\\Visual Studio 2022\\Projects\\GH Injector 3.4\\GH Injector GUI\\GH .NET Parser\\GH .NET Parser.csproj",
-      "packagesPath": "C:\\Users\\konra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\konra\\Documents\\Visual Studio 2022\\Projects\\GH Injector 3.4\\GH Injector GUI\\GH .NET Parser\\obj\\",
+      "projectPath": "E:\\GH-Injector-GUI-main\\GH .NET Parser\\GH .NET Parser.csproj",
+      "packagesPath": "C:\\Users\\palad\\.nuget\\packages\\",
+      "outputPath": "E:\\GH-Injector-GUI-main\\GH .NET Parser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\konra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\palad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -210,7 +210,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
